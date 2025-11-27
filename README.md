@@ -6,4 +6,4 @@ Before that, codewalker ymaps etc will be here.
 
 For now see the wiki, we're slowly moving paper notes created over decades, onto the wiki here.
 
-[Wiki](/Wiki)
+[Wiki](https://github.com/GlennPegden2/GTAMadchester/wiki)
